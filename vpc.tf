@@ -14,5 +14,5 @@ resource "aws_vpc" "main" {
 }
 
 # =========================
-# Create your subnets here
+# New file subnet.tf is created. Please review
 # =========================
